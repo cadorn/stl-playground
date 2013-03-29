@@ -27,6 +27,12 @@ Export STL file to PNG ( **WIP** ):
 	./scripts/stl-to-png ./resources/rectangle.stl
 
 
+Discussion
+----------
+
+  * http://www.okmakerspace.com/forum/viewtopic.php?f=1&t=8
+
+
 Links
 -----
 
