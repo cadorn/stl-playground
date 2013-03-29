@@ -1,0 +1,8 @@
+{
+	"name": "stl-playground",
+	"version": "0.1.0",
+	"pm": "sm",
+	"mappings": {
+		"stl-js": "github.com/cubehero/stl.js/9833d1de8d35cc83066f2e15bb4087f6054422f5"
+	}
+}
